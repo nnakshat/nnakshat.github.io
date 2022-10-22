@@ -6,9 +6,9 @@
 #   href: "/blog/"
 #   active: blog
 
-- title: "CV"
-  href: "/cv/"
-  active: cv
+# - title: "CV"
+#   href: "/cv/"
+#   active: cv
 
 # - title: "For Students"
 #   href: "/for-students/"
@@ -18,13 +18,13 @@
 #     - subtitle: "Pi Sigma Alpha"
 #       subhref: "/for-students/pi-sigma-alpha/"
 
-- title: "Publications"
-  href: "/research/"
-  active: research
+# - title: "Publications"
+#   href: "/research/"
+#   active: research
 
-- title: "Teaching"
-  href: "/teaching/"
-  active: teaching
+# - title: "Teaching"
+#   href: "/teaching/"
+#   active: teaching
 # subcategories:
 #    - subtitle: "POSC 1020 – Introduction to International Relations"
 #      subhref: "http://posc1020.svmiller.com"
