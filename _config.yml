@@ -2,7 +2,7 @@
 title: Nishanth Sridhar Nakshatri
 email: nnakshat@purdue.edu
 description: > # this means to ignore newlines until "baseurl:"
-  I am a second-year Ph.D. student in the department of Computer Science at Purdue University. 
+  I am a Ph.D. student in the department of Computer Science at Purdue University. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://nnakshat.github.io/" # the base hostname & protocol for your site
 # twitter_username: 
