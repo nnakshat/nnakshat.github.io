@@ -103,6 +103,12 @@ a {
     }
 }
 
+/* Make the résumé link easy to spot without turning it into a callout. */
+.resume-link a {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
 /* .post-content a, .home a {
 	font-weight: 500;
 } */
